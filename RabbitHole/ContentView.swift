@@ -5,7 +5,7 @@
 //  Created by scholar on 5/28/23.
 //
 import SwiftUI
-
+//yerrrr
 public var score = 0
 public var rightL = 0
 public var leftL = 0
